@@ -1,14 +1,43 @@
-### Hi there 👋
+## 🚀 Featured Projects
 
-## 🌱 I’m currently learning
-- Python at [UniLab](https://unilab.iliauni.edu.ge/)
-- Computer Engineering at [IliaUni](https://iliauni.edu.ge/)
-- Cyber Security and Ethical Hacking
+### 📱 Mobile App (React Native - Expo)
+🔹 **Smart Service App**  
+- 📲 Built with React Native (Expo Router)
+- 🔗 API integration using Axios  
+- 🧠 Modular architecture (hooks, context, reusable components)  
+- ⚡ Focused on performance and clean UI  
 
-## 🖥️ I’m currently working at
-- The National Statistics Office of Georgia (საქსტატი)
-- Lead Specialist in the Department of IT, Software Development, and Geographic Information Systems
+👉 [View Project](https://github.com/nikolozi2001/your-project)
 
-![Nika Kachibaia's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikolozi2001&show_icons=true&theme=radical)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikolozi2001&layout=compact)](https://github.com/nikolozi2001/github-readme-stats)
+### 🧾 Dynamic Forms System (Form.io)
+🔹 **Advanced Form Builder & Automation**  
+- 🧩 Custom Form.io components & logic  
+- 🔄 Complex validations & conditional workflows  
+- 📊 Data-driven forms for internal systems  
+- ⚙️ Automation for EditGrid & dynamic fields  
+
+👉 [View Project](https://github.com/nikolozi2001/your-project)
+
+---
+
+### 🌐 Internal Dashboard / Web App
+🔹 **Statistics Dashboard (საქსტატი)**  
+- 📊 Data visualization & reporting tools  
+- 🗺️ GIS integration  
+- 🔐 Secure internal system  
+- ⚡ Optimized for performance & usability  
+
+👉 _Private Project_
+
+---
+
+### 🛠️ Utility / Backend Project
+🔹 **API & Automation Tools**  
+- 🔗 REST API integration  
+- ⚙️ Data processing scripts (Python)  
+- 🌐 Local tunneling with ngrok  
+- 🧠 Automation of repetitive workflows  
+
+👉 [View Project](https://github.com/nikolozi2001/your-project)
