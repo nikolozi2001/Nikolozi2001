@@ -2,7 +2,7 @@
 
 ## 🖥️ Currently Working At
 
-**National Statistics Office of Georgia (საქსტატი)** — Lead Specialist in the Department of IT, Software Development & Geographic Information Systems *(Aug 2022 – Present)*
+**National Statistics Office of Georgia (Geostat)** — Lead Specialist in the Department of IT, Software Development & Geographic Information Systems *(Aug 2022 – Present)*
 
 - Database procedures, reports, and views
 - Internal database architecture design and maintenance
